@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sammatthews.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -42,4 +42,4 @@
 <img align="left" alt="Sam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hellosamzo&show_icons=true&hide_border=true" />
 
 [website]: https://sammatthews.dev
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://uk.linkedin.com/in/sam-matthews-62b64b135
